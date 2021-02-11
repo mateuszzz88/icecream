@@ -11,6 +11,8 @@ Note: The package name may vary by distro
 * lzo-devel
 * libzstd-devel
 
+Note: on Ubuntu this translates to `sudo apt install automake libtool libcap-ng-dev liblzo2-dev libzstd-dev libarchive-dev`
+
 How to install icecream
 =======================
 
